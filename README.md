@@ -1,0 +1,1 @@
+# tinder-auto-reject-bot
